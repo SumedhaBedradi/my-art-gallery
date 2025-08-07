@@ -5,4 +5,4 @@ Built using only **HTML** and **CSS** with a dark-themed hero section and a clea
 
 ## 🌐 Live Demo
 
-[Visit Website]()  
+[Visit Website](https://sumedhabedradi.github.io/my-art-gallery/)  
